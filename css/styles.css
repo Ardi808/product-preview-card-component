@@ -20,9 +20,9 @@ body {
 .card {
   background-color: var(--White);
   margin: auto;
-  width: 470px;
+  width: 390px;
   display: grid;
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   border-radius: 8px;
 }
 .card img {
@@ -32,7 +32,7 @@ body {
 }
 /* responsive */
 .card .desktop {
-  display: none;
+  display: block;
 }
 
 
@@ -101,7 +101,7 @@ body {
 .information .paragraph,
 .information .price,
 .information .button-cart {
-  margin: .5rem 0;
+  margin: 1rem 0;
 }
 
 .information .button-cart:hover {
@@ -122,18 +122,4 @@ footer .attribution a {
 footer .attribution a:hover {
   background-color: var(--Green500);
   color: var(--White);
-}
-@media screen and (min-width: 576px) {
-  .card {
-  background-color: var(--White);
-  margin: auto;
-  width: 350px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  border-radius: 8px;
-}
-.card .desktop {
-  display: block;
-}
-  
 }
