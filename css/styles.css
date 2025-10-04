@@ -58,6 +58,7 @@ body {
 
 .information .product {
   color: var(--Grey);
+  font-family: Montserrat, sans-serif;
   text-transform: uppercase;
   letter-spacing: .5rem;
   font-size: 0.9rem;
@@ -65,6 +66,7 @@ body {
 }
 
 .information h1 {
+  font-family: Fraunces, serif;
   font-weight: 700;
   line-height: 2.5rem;
   font-size: rem;
@@ -74,6 +76,7 @@ body {
 /* keterangan */
 .information .paragraph {
   color: var(--Grey);
+  font-family: Montserrat, sans-serif;
   line-height: 1.4rem;
   margin: 0;
 }
@@ -86,6 +89,8 @@ body {
 }
 
 .price .new {
+  font-family: Fraunces, serif;
+  font-weight: 700;
   font-size: 2rem;
   color: var(--Green500);
 }
@@ -93,9 +98,11 @@ body {
 .price .old {
   text-decoration: line-through;
   color: var(--Grey);
+  font-family: Montserrat, sans-serif;
 }
 
 .information .button-cart {
+  font-family: Montserrat;
   border: none;
   background-color: var(--Green500);
   display: flex;
@@ -131,7 +138,13 @@ body {
   width: 15px;
 }
 
+footer {
+  font-family: Montserrat, sans-serif;
+  color: var(--Grey);
+}
+
 footer .attribution a {
+  font-weight: 700;
   color: var(--Green500);
   text-decoration: none;
   padding: .3rem;
