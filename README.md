@@ -27,8 +27,11 @@ Users should be able to:
 * See hover and focus states for interactive elements
 
 ### Screenshot
-[Desktop](/images/screenshot/127.0.0.1_5500_index.html_(desktop).png)
-[Mobile](/images/screenshot/127.0.0.1_5500_index.html_(mobile).png)
+**Desktop view**  
+![](/images/screenshot/127.0.0.1_5500_index.html_(desktop).png)
+
+**Mobile view**  
+![](/images/screenshot/127.0.0.1_5500_index.html_(mobile).png)
 
 ### Links
 
