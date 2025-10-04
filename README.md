@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-* Solution URL: [Add solution URL here](-)
-* Live Site URL: [Add live site URL here](-)
+* Solution URL: []()
+* Live Site URL: [](https://ardi808.github.io/product-preview-card-component/)
 
 ## My process
 
